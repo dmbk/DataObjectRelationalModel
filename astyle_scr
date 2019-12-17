@@ -1,0 +1,6 @@
+
+astyle include/*
+astyle src/*
+astyle DORM/include/*
+
+

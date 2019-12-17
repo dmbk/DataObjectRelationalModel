@@ -1,0 +1,1 @@
+g++ -o seri src/main.cpp -I include/ -I ~/boost/1_71_0/gcc/5.4.0/include/ -L ~/boost/1_71_0/gcc/5.4.0/lib/ -std=c++14 -lboost_serialization

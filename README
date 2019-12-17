@@ -1,0 +1,11 @@
+Pre-requisites
+---------------
+
+C++14
+Boost-1.71.0
+
+Instructions
+-----------------
+run:
+
+make all
